@@ -23,7 +23,4 @@ To the fearless warriors of the cybersecurity community, I extend my deepest gra
 
 Thank you for venturing into my domain. May your exploits be legendary and your code be ever secure.
 
-<iframe src="https://tryhackme.com/badge/1072865" title="TryHackMe Badge" width="300" height="80" frameborder="0"></iframe>
-
-
 ![TryHackMe Badge](https://tryhackme.com/badge/1072865)
