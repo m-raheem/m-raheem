@@ -27,10 +27,9 @@ Thank you for venturing into my domain. May your exploits be legendary and your 
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Muhammad Raheem (@espyerx) - Cyber Security Engineer</title>
 </head>
 <body>
-   <script src="https://tryhackme.com/badge/1072865"></script>
+   <img src="https://tryhackme-badges.s3.amazonaws.com/espyerx.png" alt="TryHackMe">
 </body>
 
 ![TryHackMe Badge](https://tryhackme.com/badge/1072865)
