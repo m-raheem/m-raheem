@@ -29,7 +29,7 @@ Thank you for venturing into my domain. May your exploits be legendary and your 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-   <img src="https://tryhackme-badges.s3.amazonaws.com/espyerx.png" alt="TryHackMe">
+   <img src="https://tryhackme.com/badge/1072865" alt="TryHackMe">
 </body>
 
 ![TryHackMe Badge](https://tryhackme.com/badge/1072865)
