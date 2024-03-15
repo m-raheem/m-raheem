@@ -22,7 +22,6 @@ Seeking counsel from a cybersecurity sage? Drop me a line at [LinkedIn](https://
 To the fearless warriors of the cybersecurity community, I extend my deepest gratitude. Together, we stand as guardians of the digital realm, united in our quest for knowledge and security. Special thanks to TryHackMe for providing a sanctuary for our exploits and adventures.
 
 Thank you for venturing into my domain. May your exploits be legendary and your code be ever secure.
-```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
