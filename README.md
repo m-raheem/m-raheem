@@ -22,14 +22,16 @@ Seeking counsel from a cybersecurity sage? Drop me a line at [LinkedIn](https://
 To the fearless warriors of the cybersecurity community, I extend my deepest gratitude. Together, we stand as guardians of the digital realm, united in our quest for knowledge and security. Special thanks to TryHackMe for providing a sanctuary for our exploits and adventures.
 
 Thank you for venturing into my domain. May your exploits be legendary and your code be ever secure.
-'''<!DOCTYPE html>
+```html
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-   <img src="https://tryhackme.com/badge/1072865" alt="TryHackMe">
+   <iframe src="https://tryhackme.com/badge/1072865" title="TryHackMe Badge" width="300" height="80" frameborder="0"></iframe>
 </body>
+</html>
 
 ![TryHackMe Badge](https://tryhackme.com/badge/1072865)
