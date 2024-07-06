@@ -23,4 +23,4 @@ To the fearless warriors of the cybersecurity community, I extend my deepest gra
 
 Thank you for venturing into my domain. May your exploits be legendary and your code be ever secure.
 
- <img src="https://tryhackme-badges.s3.amazonaws.com/espyerx.png" alt="TryHackMe">
+ <img src="https://tryhackme-badges.s3.amazonaws.com/espyerx.png" alt="TryHackMe-Badge">
