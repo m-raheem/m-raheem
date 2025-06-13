@@ -1,9 +1,9 @@
-# Muhammad Raheem (@espyerx) - Cyber Security Engineer
+# (@espyerx) - Cyber Security Engineer
 
 Welcome to my GitHub repository! Here you'll find a treasure trove of offensive security tools, scripts, and gripping write-ups meticulously crafted by yours truly. Dive in and discover the essence of cybersecurity through my eyes.
 
 ## About Me 🛡️
-I'm Muhammad Raheem, better known as @espyerx in the vibrant cybersecurity community. With two years of relentless exploration and hacking under my belt, I wield offensive security techniques like a seasoned warrior. From crafting cutting-edge tools to unraveling the deepest mysteries of the digital realm, my passion knows no bounds.
+I'm better known as @espyerx in the vibrant cybersecurity community. With two years of relentless exploration and hacking under my belt, I wield offensive security techniques like a seasoned warrior. From crafting cutting-edge tools to unraveling the deepest mysteries of the digital realm, my passion knows no bounds.
 
 ## TryHackMe Profile 🚀
 Embark on a journey with me through the labyrinth of cybersecurity challenges. Explore my realm on [TryHackMe](https://tryhackme.com/p/espyerx), where every puzzle solved is a step closer to enlightenment.
